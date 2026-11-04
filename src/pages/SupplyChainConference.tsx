@@ -26,6 +26,7 @@ const partners = [
   { name: "Infineon", logo: `${ASSET}/partners/infineon.webp` },
   { name: "Horváth", logo: `${ASSET}/partners/horvath.webp` },
   { name: "MHP – A Porsche Company", logo: `${ASSET}/partners/mhp.webp` },
+  { name: "MaibornWolff", logo: `${ASSET}/partners/maibornwolff.webp` },
 ];
 
 const speakers = [
@@ -60,14 +61,14 @@ const speakers = [
     photo: "popp",
   },
   {
-    name: "Prof. Dr. Lisandra Flach",
-    role: "Expertin für globalen Handel, LMU / ifo Institut",
-    photo: "flach",
-  },
-  {
     name: "Manuela Kirner",
     role: "Senior Director Customs & Supply Chain Infineon (2016–2025)",
     photo: "kirner",
+  },
+  {
+    name: "Klaus Buchwald",
+    role: "COO Siltronic AG · INSEAD",
+    photo: "buchwald",
   },
 ];
 
@@ -202,11 +203,11 @@ const SupplyChainConference: React.FC = () => (
         </div>
         <dl className="facts">
           <div>
-            <dt>125</dt>
-            <dd>Teilnehmer, davon 100 Führungskräfte</dd>
+            <dt>100</dt>
+            <dd>Teilnehmer, davon 70 Führungskräfte</dd>
           </div>
           <div>
-            <dt>über 20</dt>
+            <dt>knapp 15</dt>
             <dd>Speaker</dd>
           </div>
           <div>
@@ -254,7 +255,7 @@ const SupplyChainConference: React.FC = () => (
         <div className="head">
           <h2 className="h2">Zusammensetzung des Publikums</h2>
           <p className="intro">
-            125 Teilnehmer, davon 100 Führungskräfte von der Teamleitung bis zum
+            100 Teilnehmer, davon 70 Führungskräfte von der Teamleitung bis zum
             C-Level, überwiegend aus Konzernen dieser vier Branchen.
           </p>
         </div>

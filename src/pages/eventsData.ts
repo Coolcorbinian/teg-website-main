@@ -53,7 +53,7 @@ export const upcomingConferences: UpcomingConference[] = [
     date: "8. Dezember 2026",
     theme: "Automatisierung und Geopolitik in der Lieferkette",
     location: "München",
-    details: ["ganztägig", "125 Teilnehmer, davon 100 Führungskräfte"],
+    details: ["ganztägig", "100 Teilnehmer, davon 70 Führungskräfte"],
     page: "/conferences/supplychain-management-conference",
   },
   {
