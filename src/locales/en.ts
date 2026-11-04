@@ -495,7 +495,7 @@ const en = {
   "seo.supplyChainConference.title":
     "Supply Chain Management Conference 2026 | TEG",
   "seo.supplyChainConference.description":
-    "8 December 2026 in Munich: a conference day on automation and geopolitics in the supply chain, with 125 participants, 100 of them executives.",
+    "8 December 2026 in Munich: a conference day on automation and geopolitics in the supply chain, with 100 participants, 70 of them executives.",
   "seo.aviationConference.title": "Aviation Management Conference 2027 | TEG",
   "seo.aviationConference.description":
     "TEG Aviation Management Conference on 19 May 2027. Programme, speakers and registration will be announced soon.",
